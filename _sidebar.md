@@ -1,6 +1,6 @@
 - stuff others added
 
-  - [Read Me](README)
+  - [Home](README)
   - [Example Second Page](second-page)
 
 - [House MD](house)
