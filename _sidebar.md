@@ -1,7 +1,3 @@
-- stuff others added
-
-  - [Home](README)
-  - [Example Second Page](second-page)
-
-- [House MD](house)
+- [Home](README)
+- [Aug 15, 2025: Gender](aug152025)
 - [Links](links)
