@@ -1,3 +1,4 @@
 - [Home](README)
 - [Aug 15, 2025: Gender](aug152025)
+- [Aug 24, 2025: THe Social Contract](aug242025)
 - [Links](links)
