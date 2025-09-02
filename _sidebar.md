@@ -1,4 +1,5 @@
 - [Home](README)
 - [Aug 15, 2025: Gender](aug152025)
-- [Aug 24, 2025: THe Social Contract](aug242025)
+- [Aug 24, 2025: The Social Contract](aug242025)
+- [Sep 2, 2025: Autism and perspective](sep22025)
 - [Links](links)
